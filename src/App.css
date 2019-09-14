@@ -1,0 +1,677 @@
+.home{
+  background: url("/images/menu-img.jpg") top center fixed no-repeat;
+  height:670px;
+  color: white;
+  background-size: cover;
+}
+.reservation{
+  background: url("/images/slider-1.jpg") top center fixed no-repeat;
+  height:670px;
+  color: white;
+  background-size: cover;
+}
+.team{
+  background: url("/images/team-page.jpg") top center fixed no-repeat;
+  height:670px;
+  color: white;
+  background-size: cover;
+}
+.contactUs{
+  background: url("/images/contact-us.jpg") top center fixed no-repeat;
+  height:670px;
+  color: white;
+  background-size: cover;
+}
+.menu{
+  background: url("/images/food-as-medicine-1296x728-feature.jpg") top center fixed no-repeat;
+  height:670px;
+  color: white;
+  background-size: cover;
+}
+.heroOverlay{
+  background: rgba(0,0,0,0.4);
+  padding: 0;
+  width: 100%;
+  height: 100%;}
+.banner{
+  padding-top: 200px;
+  text-align: center;
+}
+hr{
+  width: 135px;
+}
+.banner h1{
+  font-size: 108px;
+  font-family: 'Lora', serif;
+  letter-spacing: 2.4px;
+  line-height: 108px;
+}
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  .banner h1{
+    font-size: 80px;
+  }
+ }
+ @media (max-width: 575.98px) { 
+  .banner h1{
+    font-size: 80px;
+  }
+  }
+
+.banner p {
+  font-size: 16px;
+  font-family: 'Work Sans', sans-serif;
+line-height: 24px;
+vertical-align: baseline;
+padding-top: 20px;
+}
+.banner .bookNow{
+  border: 1px solid #fff;
+  background: transparent;
+  color: #fff;
+  width: 150px;
+  height: 50px;
+  font-size: 24px;
+  border-radius: 10px;
+  margin-top: 45px;
+
+}
+.bookNow a{
+  color: #fff;
+}
+.bookNow a:hover{
+  color: #9fc4ce;
+  text-decoration: none;
+}
+.banner .bookNow:hover{
+  border-color: #9fc4ce;
+  color: #9fc4ce;
+}
+.welcome{
+  margin-top: 80px;
+}
+.welcome img{
+  width: 90%;
+  height: 90%;
+}
+@media (max-width: 575.98px) { 
+  .welcome img{
+    width: 100%;
+    height: 100%; 
+    margin-top: 20px;
+   }
+ }
+ @media (min-width: 576px) and (max-width: 767.98px) { 
+  .welcome img{
+    width: 100%;
+    height: 100%; 
+    margin-top: 20px;
+   }
+}
+.welcome h6{
+ line-height: 24px;
+ letter-spacing: 2.4px;
+ font-weight: 500;
+ text-transform: uppercase;
+ font-family: 'Work Sans', sans-serif;
+color: #9fc4ce;
+}
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  .welcome h6{
+    
+    margin-top: 50px;
+   }
+}
+.welcome h2{
+  color: #252525;
+  font-size: 48px;
+  font-family: 'Lora', serif;
+  line-height: 115px;
+}
+.welcome p{
+  color: #252525;
+  font-family: 'Work Sans', sans-serif;
+  line-height: 24px;
+  vertical-align: baseline;
+}
+.welcome .booking{
+  font-size: 13px;
+  letter-spacing: 0.15em;
+  font-weight: 600;
+  display: inline-block;
+  color: #ffffff;
+  border: 2px solid #9fc4ce;
+  text-transform: uppercase;
+  padding: 16px 24px;
+  background: #9fc4ce;
+  margin-top: 24px;
+}
+.welcome .booking:hover{
+  background: #ffffff;
+  border-color: #9fc4ce;
+  color: #9fc4ce;
+}
+.come{
+  margin-top:80px;
+  background: url("/images/parallax-bkg1.jpg") top center fixed no-repeat;
+  height: 400px;
+  color: white;
+  background-size: cover;
+
+}
+ .come .overlay h6{
+  font-family: 'Work Sans', sans-serif;
+  line-height: 24px;
+  vertical-align: baseline;
+  letter-spacing: 2.4px;
+  font-weight: 500;
+  padding-top: 163px;
+
+ }
+ .come .overlay h2{
+  font-family: 'Lora', serif;
+  font-size: 48px;
+  line-height: 72px;
+  position: relative;
+ }
+ .come .overlay{
+  background: rgba(0,0,0,0.3);
+  padding: 0;
+  width: 100%;
+  height: 100%;
+ }
+ .discover{
+   margin-top: 80px;
+ }
+ .discover h6{
+  line-height: 24px;
+  letter-spacing: 2.4px;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-family: 'Work Sans', sans-serif;
+ color: #9fc4ce;
+ }
+ .discover h2{
+  color: #252525;
+  font-size: 48px;
+  font-family: 'Lora', serif;
+  line-height: 115px;
+}
+.discover p{
+  color: #252525;
+  font-family: 'Work Sans', sans-serif;
+  line-height: 24px;
+  vertical-align: baseline;
+}
+.borderLine{
+  font-size: 16px;
+    margin-bottom: 20px;
+    padding-bottom: 11px;
+    border-bottom: 1px dotted #999999;
+
+}
+.popularTop{
+  margin-top: 60px;
+}
+.popularTitle{
+  font-size: 16px;
+  padding-right: 80px;
+  position: relative;
+  margin-bottom: 8px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  font-family: 'Lora', serif;
+
+}
+.price{
+  position: absolute;
+  top: 0;
+  right: 0;
+
+}
+.desc{
+  font-size: 14px;
+  font-style: italic;
+  font-family: 'Work Sans', sans-serif;
+
+}
+.book{
+  margin-top:80px;
+  background: url("/images/parallax-2.jpg") top center fixed no-repeat;
+  height: 400px;
+  color: white;
+  background-size: cover;
+}
+.book .overlay h6{
+  font-family: 'Work Sans', sans-serif;
+  line-height: 24px;
+  vertical-align: baseline;
+  letter-spacing: 2.4px;
+  font-weight: 500;
+  padding-top: 163px;
+
+ }
+ .book .overlay h2{
+  font-family: 'Lora', serif;
+  font-size: 48px;
+  line-height: 72px;
+  position: relative;
+ }
+ .book .overlay{
+  background: rgba(0,0,0,0.3);
+  padding: 0;
+  width: 100%;
+  height: 100%;
+ }
+ .behind{
+   margin-top: 80px;
+ }
+ .behind img{
+  width: 277px;
+}
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  .behind img{
+    padding-left: 15px;
+  }
+}
+@media (max-width: 575.98px) { 
+  .behind img{
+    margin-top: 10px;
+  }
+ }
+ @media (min-width: 768px) and (max-width: 991.98px) { 
+  .behind img{
+  }
+  }
+
+
+.behind h6{
+  line-height: 24px;
+  letter-spacing: 2.4px;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-family: 'Work Sans', sans-serif;
+ color: #9fc4ce;
+ }
+ .behind h2{
+   color: #252525;
+   font-size: 48px;
+   font-family: 'Lora', serif;
+   line-height: 115px;
+ }
+ .behind p{
+   color: #252525;
+   font-family: 'Work Sans', sans-serif;
+   line-height: 24px;
+   vertical-align: baseline;
+ }
+ 
+
+.testimonial{
+  margin-top:80px;
+  background: url("/images/parallax-3.jpg") top center fixed no-repeat;
+  height: 620px;
+  color: white;
+  background-size: cover;
+}
+@media (max-width: 576px) { 
+  .testimonial {
+    height: 800px;;
+ }
+}
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  .testimonial {
+    height: 750px;;
+ }
+}
+
+.testimonial .overlay h6{
+  font-family: 'Work Sans', sans-serif;
+  line-height: 24px;
+  vertical-align: baseline;
+  letter-spacing: 2.4px;
+  font-weight: 500;
+  padding-top: 50px;
+ }
+ .testimonial .overlay h2{
+  font-family: 'Lora', serif;
+  font-size: 48px;
+  line-height: 72px;
+  position: relative;
+ }
+ .testimonial .overlay{
+  background: rgba(0,0,0,0.3);
+  padding: 0;
+  width: 100%;
+  height: 100%;
+ }
+  
+ .slick-active{
+   color: #fff;
+ }
+.testimonial .testimonialHead h5{
+  padding-top: 55px;
+  line-height: 45px;
+  font-size: 25px;}
+ .contact{
+  margin-top: 80px;
+}
+.contact h6{
+ line-height: 24px;
+ letter-spacing: 2.4px;
+ font-weight: 500;
+ text-transform: uppercase;
+ font-family: 'Work Sans', sans-serif;
+color: #9fc4ce;
+}
+.contact h2{
+  color: #252525;
+  font-size: 48px;
+  font-family: 'Lora', serif;
+  margin-bottom: 48px;
+}
+.contact p{
+  color: #252525;
+  font-family: 'Work Sans', sans-serif;
+  line-height: 24px;
+  vertical-align: baseline;
+}
+.contact .booking{
+  font-size: 13px;
+  letter-spacing: 0.15em;
+  font-weight: 600;
+  display: inline-block;
+  color: #ffffff;
+  border: 2px solid #9fc4ce;
+  text-transform: uppercase;
+  padding: 16px 24px;
+  background: #9fc4ce;
+  margin-top: 24px;
+}
+
+.contact .booking:hover{
+  background: #ffffff;
+  border-color: #9fc4ce;
+  color: #9fc4ce;
+}
+.contact h5{
+  color: #252525;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.15em;
+  margin-bottom: 32px;
+  text-transform: uppercase;
+
+}
+ .contact form input {
+  width: 100%;
+  padding: 16px;
+  border: none;
+  background: #f2f2f2;
+  height: 50px;
+border-radius: 0;
+ }
+ .contact form textarea{
+  width: 100%;
+  padding: 16px;
+  border: none;
+  background: #f2f2f2;
+  height: 155px;
+  border-radius: 0;
+ }
+   form .bookingBtn{
+    margin-left: 479px;
+    font-size: 13px;
+    letter-spacing: 0.15em;
+    font-weight: 600;
+    display: inline-block;
+    color: #ffffff;
+    border: 2px solid #9fc4ce;
+    text-transform: uppercase;
+    padding: 16px 24px;
+    background: #9fc4ce;
+    margin-top: 24px;
+  }
+  @media (max-width: 576px) { 
+    form .bookingBtn {
+      margin-left: 0px;
+   }
+  }
+  @media (min-width: 576px) and (max-width: 767.98px) {
+    form .bookingBtn {
+      margin-left: 0px;
+   }
+   }
+   @media (min-width: 768px) and (max-width: 991.98px) { 
+    form .bookingBtn {
+      margin-left: 0px;
+   }
+   }
+
+  form .bookingBtn:hover{
+    background: #ffffff;
+    border-color: #9fc4ce;
+    color: #9fc4ce;
+  }
+.footer{
+  margin-top: 80px;
+  color: #999999;
+  background: #000;
+  padding: 100px 0 50px;
+}
+.footer h3{
+  font-family: 'Lora', serif;
+color: #fff;
+}
+.footer p{
+  font-size: 16px;
+}
+.footer .copy{
+  padding-top: 30px;
+}
+/************** reservations page **********************/
+.reservations{
+  margin-top: 80px;
+}
+.reservationse h1{
+  font-size: 32px;
+  font-family: 'Lora', serif;
+line-height: 48px;
+}
+.reservationse p {
+  font-size: 16px;
+  color: #252525;
+  font-family: 'Work Sans', sans-serif;
+  line-height: 24px;
+  vertical-align: baseline;
+}
+.reservations h3{
+  font-size: 16px;
+  color: #9fc4ce;
+  font-family: 'Work Sans', sans-serif;
+  line-height: 24px;
+  vertical-align: baseline;
+}
+.reservations p{
+  font-size: 16px;
+  color: #252525;
+  font-family: 'Work Sans', sans-serif;
+  line-height: 24px;
+  vertical-align: baseline;
+}
+.reservations form{
+  margin-top: 30px;
+}
+.reservations form input{
+  width: 100%;
+  padding: 16px;
+  border: none;
+  background: #f2f2f2;
+  height: 50px;
+border-radius: 0;
+}
+.reservations form textarea{
+  width: 100%;
+  padding: 16px;
+  border: none;
+  background: #f2f2f2;
+  height: 155px;
+  border-radius: 0;
+}
+/*************** Team Section *******************/
+.teamSection{
+  color: #252525;
+  font-family: 'Lora', serif;
+  font-size: 32px;
+  line-height: 50px;
+  vertical-align: baseline;
+  margin-top: 80px;
+  margin-bottom: 24px;
+  font-weight: 400;
+}
+.teamList{
+  padding-top: 25px;
+}
+.team-image{
+  width: 100%;
+}
+.teamList h2{
+  font-family: 'Lora', serif;
+  font-size: 24;
+  line-height: 36px;
+padding-top: 20px;
+}
+.teamList h6{
+  font-size: 14px;
+    letter-spacing: 0;
+    margin-bottom: 24px;
+    color: #9fc4ce;
+    position: relative;
+    padding: 0 16px;
+    display: inline-block;
+}
+.teamList p{
+  line-height: 24px;
+  font-family: 'Work Sans', sans-serif;
+
+}
+/****************** Contact Section ***************************/
+.connect{
+  margin-top: 80px;
+}
+.connect .conect h3{
+  color: #252525;
+font-size: 24px;
+font-family: 'Lora', serif;
+line-height: 36px;
+vertical-align: baseline;
+}
+.connect .conect h5{
+  color: #9fc4ce;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2.4px;
+  font-weight: 500;
+  text-transform: uppercase
+}
+.connect .conect p{
+  color: #252525;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: 'Work Sans', sans-serif;
+
+}
+.connect form input{
+  width: 100%;
+  padding: 16px;
+  border: none;
+  background: #f2f2f2;
+  height: 50px;
+border-radius: 0;
+}
+.connect form textarea{
+  width: 100%;
+  padding: 16px;
+  border: none;
+  background: #f2f2f2;
+  height: 155px;
+  border-radius: 0;
+}
+.connect .booking{
+  font-size: 13px;
+  letter-spacing: 0.15em;
+  font-weight: 600;
+  display: inline-block;
+  color: #ffffff;
+  border: 2px solid #9fc4ce;
+  text-transform: uppercase;
+  padding: 16px 24px;
+  background: #9fc4ce;
+  margin-top: 24px;
+}
+.connect .booking:hover{
+  background: #ffffff;
+  border-color: #9fc4ce;
+  color: #9fc4ce;
+}
+/************** Menu Sections ************/
+.mainMenu{
+  margin-top: 80px;
+}
+.startsHeader-1,.startsHeader-4{
+  background: url("/images/small-img3.jpg") top center fixed no-repeat;
+  color: white;
+  background-size: cover;
+  height: 135px;
+  padding-top: 15px;
+  margin-bottom: 35px;
+}
+.startsHeader-2{
+  background: url("/images/small-img1.jpg") top center fixed no-repeat;
+  color: white;
+  background-size: cover;
+  height: 135px;
+  padding-top: 15px;
+  margin-bottom: 35px;
+}
+.startsHeader-3{
+  background: url("/images/small-img2.jpg") top center fixed no-repeat;
+  color: white;
+  background-size: cover;
+  height: 135px;
+  padding-top: 15px;
+  margin-bottom: 35px;
+}
+.startsHeader-1 h3{
+  font-weight: 500;
+  font-size: 48px;
+  letter-spacing: 0.15em;
+  line-height: 72px;
+  text-transform: uppercase;
+  font-family: 'Lora', serif;
+
+}
+.startsHeader-2 h3{
+  font-weight: 500;
+  font-size: 48px;
+  letter-spacing: 0.15em;
+  line-height: 72px;
+  text-transform: uppercase;
+  font-family: 'Lora', serif;
+
+}.startsHeader-3 h3{
+  font-weight: 500;
+  font-size: 48px;
+  letter-spacing: 0.15em;
+  line-height: 72px;
+  text-transform: uppercase;
+  font-family: 'Lora', serif;
+
+}.startsHeader-4 h3{
+  font-weight: 500;
+  font-size: 48px;
+  letter-spacing: 0.15em;
+  line-height: 72px;
+  text-transform: uppercase;
+  font-family: 'Lora', serif;
+
+}
